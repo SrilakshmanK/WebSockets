@@ -1,0 +1,1 @@
+Echo server (send back whatever the client sends) Multi-user chat application Live notification system Real-time collaborative notes Live dashboard (CPU/memory usage) Multiplayer Tic-Tac-Toe Live voting application then i am going to build this one by one using react do i need database for these projects ?
